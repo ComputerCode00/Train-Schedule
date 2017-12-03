@@ -1,0 +1,38 @@
+
+body {				/*Train station image*/
+	background-image: url("https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/18582307_10154896826349355_582341831591577003_n.jpg?oh=43d02486e10075826be0540efae0c912&oe=5AA63B70");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.container {
+	background-color: transparent;
+	padding-top: 10px;
+}
+
+.jumbotron {
+	background-color: red;
+}
+
+h2 {
+	color: black;
+	text-align: center;
+	font-size: 27px;
+}
+
+th {
+	color: black;
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+td {
+	color: brown;
+	font-size: 20px;
+}
+
+.row {
+	background-color: white;
+}
